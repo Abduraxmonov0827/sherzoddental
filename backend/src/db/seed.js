@@ -4,7 +4,7 @@ const { pool, query } = require('../config/db');
 const DOCTORS = [
   { full_name: 'Sherzod', login: 'sherzod', password: 'doctor123', specialty: 'Stomatolog-terapevt', phone: '+998901234567' },
   { full_name: 'Feruza', login: 'feruza', password: 'doctor123', specialty: 'Ortodont', phone: '+998901234568' },
-  { full_name: 'Baxtiyor', login: 'baxtiyor', password: 'doctor123', specialty: 'Jarroh stomatolog', phone: '+998901234569' },
+  { full_name: 'Baxriddin', login: 'baxriddin', password: 'doctor123', specialty: 'Jarroh stomatolog', phone: '+998901234569' },
 ];
 
 async function seed() {

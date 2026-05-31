@@ -89,7 +89,7 @@ export default function LoginPage() {
                 <p className="font-medium">Doctorlar</p>
                 <p className="text-gray-500">sherzod / doctor123</p>
                 <p className="text-gray-500">feruza / doctor123</p>
-                <p className="text-gray-500">baxtiyor / doctor123</p>
+                <p className="text-gray-500">baxriddin / doctor123</p>
               </div>
             </div>
           </div>

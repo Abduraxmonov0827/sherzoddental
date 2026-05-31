@@ -44,7 +44,7 @@ export default function AdminDoctorsPage() {
       <div className="flex justify-between items-center">
         <div>
           <h1 className="text-2xl font-bold">Doctorlar boshqaruvi</h1>
-          <p className="text-gray-500">Sherzod, Feruza, Baxtiyor va boshqa doctorlar</p>
+          <p className="text-gray-500">Sherzod, Feruza, Baxriddin va boshqa doctorlar</p>
         </div>
         <button className="btn-primary flex items-center gap-2" onClick={() => { setShowModal(true); setEditId(null); setForm({ work_days: [] }); }}>
           <Plus size={18} /> Doctor qo&apos;shish

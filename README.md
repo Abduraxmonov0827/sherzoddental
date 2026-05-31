@@ -13,7 +13,7 @@ Professional full-stack stomatologiya klinikasi boshqaruv tizimi. Interfeys to'l
 ## Imkoniyatlar
 
 - **Admin paneli**: statistika, grafikalar, doctor/mijoz/uchrashuv boshqaruvi
-- **Doctor paneli** (Sherzod, Feruza, Baxtiyor): alohida login, faqat o'z mijozlari
+- **Doctor paneli** (Sherzod, Feruza, Baxriddin): alohida login, faqat o'z mijozlari
 - **Interaktiv tish diagrammasi** (FDI notation)
 - **Plan Lecheniya**, klinik izohlar, to'lovlar, timeline
 - **Bildirishnomalar**, qorong'u rejim, responsive dizayn
@@ -51,7 +51,7 @@ cd frontend && npm run dev
 | Admin | `admin` | `admin123` |
 | Doctor Sherzod | `sherzod` | `doctor123` |
 | Doctor Feruza | `feruza` | `doctor123` |
-| Doctor Baxtiyor | `baxtiyor` | `doctor123` |
+| Doctor Baxriddin | `baxriddin` | `doctor123` |
 
 ## Loyiha tuzilmasi
 
